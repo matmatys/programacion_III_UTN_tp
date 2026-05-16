@@ -50,7 +50,7 @@ Entre sus responsabilidades se incluyen:
 | # | Integrante | Funcionalidad | Sección |
 |---|-----------|---------------|---------|
 | 1 | Diego Damico | Cuerpo Técnico y Estrategia | Mi Equipo |
-| 2 | | Rivales Históricos | Mi Equipo |
+| 2 | Felipe Bertocchi | Rivales Históricos | Mi Equipo |
 | 3 | | Fase de Grupos | El Mundial |
 | 4 | | Camino del Equipo | El Mundial |
 | 5 | | Detalles de Partidos | El Mundial |
