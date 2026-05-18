@@ -41,7 +41,7 @@ Entre sus responsabilidades se incluyen:
 - Centralizar consultas técnicas y comunicación con la cátedra.
 - Ayudar a destrabar problemas técnicos dentro del equipo.
 
-**Nombre del Tech Lead:**  [Completar con Nombre]
+**Nombre del Tech Lead:**  Manuel Wald
 
 ### Integrantes por funcionalidad
 
@@ -49,14 +49,14 @@ Entre sus responsabilidades se incluyen:
 
 | # | Integrante | Funcionalidad | Sección |
 |---|-----------|---------------|---------|
-| 1 | | Cuerpo Técnico y Estrategia | Mi Equipo |
-| 2 | | Rivales Históricos | Mi Equipo |
+| 1 | Diego Damico | Cuerpo Técnico y Estrategia | Mi Equipo |
+| 2 | Felipe Bertocchi | Rivales Históricos | Mi Equipo |
 | 3 | | Fase de Grupos | El Mundial |
-| 4 | | Camino del Equipo | El Mundial |
+| 4 | Manuel Wald | Camino del Equipo | El Mundial |
 | 5 | | Detalles de Partidos | El Mundial |
-| 6 | | Estadísticas y Premios | El Mundial |
+| 6 | Lisandro Cingolani | Estadísticas y Premios | El Mundial |
 | 7 | | Historial de Mundiales | El Mundial |
-| 8 | | Eventos en Vivo | La Final |
+| 8 | Matias de la Rosa| Eventos en Vivo | La Final |
 | 9 | | Estado del Equipo en la Final | La Final |
 | 10 | | **Jugar la Final** *(Responsabilidad Grupal)* | La Final |
 
