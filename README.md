@@ -54,7 +54,7 @@ Entre sus responsabilidades se incluyen:
 | 3 | | Fase de Grupos | El Mundial |
 | 4 | | Camino del Equipo | El Mundial |
 | 5 | | Detalles de Partidos | El Mundial |
-| 6 | | Estadísticas y Premios | El Mundial |
+| 6 | Lisandro Cingolani | Estadísticas y Premios | El Mundial |
 | 7 | | Historial de Mundiales | El Mundial |
 | 8 | | Eventos en Vivo | La Final |
 | 9 | | Estado del Equipo en la Final | La Final |
