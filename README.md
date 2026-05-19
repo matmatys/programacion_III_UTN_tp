@@ -49,16 +49,16 @@ Entre sus responsabilidades se incluyen:
 
 | # | Integrante | Funcionalidad | Sección |
 |---|-----------|---------------|---------|
-| 1 | | Cuerpo Técnico y Estrategia | Mi Equipo |
-| 2 | | Rivales Históricos | Mi Equipo |
-| 3 | | Fase de Grupos | El Mundial |
-| 4 | | Camino del Equipo | El Mundial |
-| 5 | | Detalles de Partidos | El Mundial |
-| 6 | | Estadísticas y Premios | El Mundial |
-| 7 | | Historial de Mundiales | El Mundial |
-| 8 | | Eventos en Vivo | La Final |
-| 9 | | Estado del Equipo en la Final | La Final |
-| 10 | | **Jugar la Final** *(Responsabilidad Grupal)* | La Final |
+| 1 | OZIEL NEREO GONZALEZ FARRAIO | Cuerpo Técnico y Estrategia | Mi Equipo |
+| 2 | LIDIA VIVIANA ZAPIOLA | Rivales Históricos | Mi Equipo |
+| 3 | KIARA RODRIGUEZ | Fase de Grupos | El Mundial |
+| 4 | GABRIEL ALVAREZ | Camino del Equipo | El Mundial |
+| 5 | GONZALO DIAZ | Detalles de Partidos | El Mundial |
+| 6 | ALEJO OCAMPO | Estadísticas y Premios | El Mundial |
+| 7 | CRISTIAN DEMIAN LARROUSSE | Historial de Mundiales | El Mundial |
+| 8 | JAZMIN OLIVAR| Eventos en Vivo | La Final |
+| 9 | ALEJANDRO GALARZA | Estado del Equipo en la Final | La Final |
+| 10 | KEYNER ANDRES HERNANDEZ CABARCAS| **Jugar la Final** *(Responsabilidad Grupal)* | La Final |
 
 > **Jugar la Final** es obligatoria para la aprobación del TP y responsabilidad de todo el grupo. Debe poder jugarse de principio a fin sin errores. De ella dependen: Eventos en Vivo, Estado del Equipo, Estadísticas y Premios e Historial de Mundiales.
 
