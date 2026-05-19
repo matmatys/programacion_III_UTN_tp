@@ -50,7 +50,7 @@ export class AppContextService {
 
   private normalizeTeamId(teamId?: string): string {
     const normalized = teamId?.trim().toLowerCase();
-    return normalized || 'arg';
+    return normalized || 'sen';
   }
 
   private normalizeLang(lang?: string): 'es' | 'en' {
