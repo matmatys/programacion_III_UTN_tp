@@ -41,11 +41,12 @@ Entre sus responsabilidades se incluyen:
 - Centralizar consultas técnicas y comunicación con la cátedra.
 - Ayudar a destrabar problemas técnicos dentro del equipo.
 
-**Nombre del Tech Lead:**  [Completar con Nombre]
+**Nombre del Tech Lead:**  [Gabriel Orellana]
 
 ### Integrantes por funcionalidad
 
 > Completar con los nombres reales y la funcionalidad que va a realizar cada integrante.
+
 | # | Integrante | Funcionalidad | Sección |
 |---|-----------|---------------|---------|
 | 1 | Gabriel Scarfo| Cuerpo Técnico y Estrategia | Mi Equipo |
