@@ -51,7 +51,7 @@ Entre sus responsabilidades se incluyen:
 |---|-----------|---------------|---------|
 | 1 | Gabriel Scarfo| Cuerpo Técnico y Estrategia | Mi Equipo |
 | 2 | Santiago B. Noguera| Rivales Históricos | Mi Equipo |
-| 3 | Ramiro Alet| Fase de Grupos | El Mundial |
+| 3 | Ramiro Alet| Fase de Grupos | El Mundial | status: iniciado
 | 4 | Agustin Vasino| Camino del Equipo | El Mundial |
 | 5 | Fernando D. Guerrico| Detalles de Partidos | El Mundial |
 | 6 | Martina V. Albanesi| Estadísticas y Premios | El Mundial |
