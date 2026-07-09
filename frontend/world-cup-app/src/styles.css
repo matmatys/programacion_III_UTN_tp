@@ -5,10 +5,10 @@
        ═══════════════════════════════════════════════════════════════ */
     :root {
       /* ── Team palette (default: Generic) ── */
-      --team-primary:     #455A64;   /* main brand color            */
+      --team-primary:     #28a0d8;   /* main brand color            */
       --team-secondary:   #607D8B;   /* contrast / secondary color  */
       --team-accent:      #90A4AE;   /* darker shade, buttons, etc. */
-      --team-dark:        #263238;   /* darkest shade, gradients    */
+      --team-dark:        #8cd9ec;   /* darkest shade, gradients    */
       --team-text-light:  #FFFFFF;   /* text on primary background  */
       --team-text-dark:   #212121;   /* text on light background    */
       --team-primary-contrast: #FFFFFF; /* auto-calculated at runtime */
